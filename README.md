@@ -9,7 +9,7 @@ This repository contains key components of my **master's thesis**, which explore
 ## 🧪 Project Overview
 
 The goal of this research is to enhance early-stage Alzheimer's Disease detection through a multimodal pipeline combining:
-![Workflow](image.png)
+![Workflow](image-3.png)
 - **Brain MRI images** (coronal + axial slices)
 - **Augmented image data**
 - **Clinical features** (FAQ, diagnosis)
